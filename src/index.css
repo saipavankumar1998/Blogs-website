@@ -15,7 +15,7 @@
   border-bottom: 1px solid #f2f2f2;
 }
 .navbar h1 {
-  color: #f1356d;
+  color: #af35f1bf;
 }
 .navbar .links {
   margin-left: auto;
@@ -26,12 +26,14 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color: #8a35f1;
 }
 .content {
+  text-align: center;
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
+  
 }
 
 /* blog previews / list */
@@ -46,6 +48,6 @@
 
 .blog-preview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: #af35f1bf;
   margin-bottom: 8px;
 }
